@@ -8,9 +8,12 @@ paginate: 2
 sass:
   style: compressed
 excerpt_separator: <!--more-->
+# Site Settings
 title: La Grieta
-description: Una película de Irene Yagüe Herrero y Alberto García Ortiz.
-author: Alejandro Zappala
+description: Una película de Irene Yagüe Herrero y Alberto García Ortiz
+author: Irene Yagüe Herrero y Alberto García Ortiz
+url: "http://lagrieta.es"
+email: "lagrieta.pelicula@gmail.com"
 plugins:
   - jekyll-twitter-plugin
   - jekyll-seo-tag
